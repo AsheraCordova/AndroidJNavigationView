@@ -46,6 +46,12 @@
 			<artifactId>AndroidJMaterial</artifactId> 
 			<version>${project.version}</version>
 		</dependency>
+		
+		<dependency>
+			<groupId>com.ashera</groupId>
+			<artifactId>AndroidXJRecyclerView</artifactId> 
+			<version>${project.version}</version>
+		</dependency>
 	</dependencies>
 
 	<build>
